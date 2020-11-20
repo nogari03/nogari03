@@ -1,6 +1,6 @@
-### 안녕하세요 👋
+### 안녕하세요! 노가리03 입니다👋
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=nogari03&show_icons=true)
+![nogari03's github stats](https://github-readme-stats.vercel.app/api?username=nogari03&show_icons=true)
 
 <!--
 **nogari03/nogari03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
